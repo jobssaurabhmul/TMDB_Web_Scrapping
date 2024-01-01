@@ -17,5 +17,14 @@ Show the data in an excel file.
 
 **Results:**  Data has been captured for 1000 movies.
 
+**Libraries Used:**
+1. BeautifulSoup
+2. Requests
+3. Pandas
+4. Regular Expressions
+
+**Additional Software Used:**
+Proton VPN to prevent the blocking of my IP Address.
+
 **Limitations:**  If a movie has multiple Directors, the program will capture only the last director mentioned.
 This can be improved by creating a list to capture all the Directors instead of using if else statements.
