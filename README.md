@@ -17,6 +17,9 @@ Show the data in an excel file.
 
 **Results:**  Data has been captured for 1000 movies.
 
+![image](https://github.com/jobssaurabhmul/TMDB_Web_Scrapping/assets/152073191/76e3f7d8-56c3-4075-8a77-421d88f4753b)
+
+
 **Libraries Used:**
 1. BeautifulSoup
 2. Requests
