@@ -31,3 +31,5 @@ Proton VPN to prevent the blocking of my IP Address.
 
 **Limitations:**  If a movie has multiple Directors, the program will capture only the last director mentioned.
 This can be improved by creating a list to capture all the Directors instead of using if else statements.
+
+**Update:** Currently updating the code to tackle the limitations. Code coming soon.
