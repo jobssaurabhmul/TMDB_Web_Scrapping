@@ -17,7 +17,8 @@ Show the data in an excel file.
 
 **Results:**  Data has been captured for 1000 movies.
 
-![image](https://github.com/jobssaurabhmul/TMDB_Web_Scrapping/assets/152073191/76e3f7d8-56c3-4075-8a77-421d88f4753b)
+![image](https://github.com/jobssaurabhmul/TMDB_Web_Scrapping/assets/152073191/50ec756d-d386-4e51-89dc-17d0adebedf5)
+
 
 
 **Libraries Used:**
@@ -29,7 +30,6 @@ Show the data in an excel file.
 **Additional Software Used:**
 Proton VPN to prevent the blocking of my IP Address.
 
-**Limitations:**  If a movie has multiple Directors, the program will capture only the last director mentioned.
-This can be improved by creating a list to capture all the Directors instead of using if else statements.
-
-**Update:** Currently updating the code to tackle the limitations. Code coming soon.
+**Update:** Updated the code to capture multiple directors. 
+In the case where a movie has more than 1 director, the code now captures the multiple directors in a list.
+Finally -> The excel file was cleaned for better asthetics.
